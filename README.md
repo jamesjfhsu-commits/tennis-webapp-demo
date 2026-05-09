@@ -26,3 +26,7 @@ npm.cmd run build
 ```
 
 The project is configured for static export and GitHub Pages deployment through `.github/workflows/deploy-pages.yml`.
+
+## Project Log
+
+The project UX/design continuity log is tracked at `docs/tennis-web-app-ux-chat-history-log.md`. Update it when future UX/UI direction, frontend structure, demo pages, or component refinements are fine-tuned.
